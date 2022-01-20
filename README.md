@@ -1,4 +1,4 @@
-This is a script for git-tutorial
+This is a script for API-tutorial
 
 	- feature-A
 	- fix-B
